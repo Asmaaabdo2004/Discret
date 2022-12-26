@@ -1,0 +1,8 @@
+C:\Users\admin\source\repos\Descrit\bin\Debug\Descrit.exe.config
+C:\Users\admin\source\repos\Descrit\bin\Debug\Descrit.exe
+C:\Users\admin\source\repos\Descrit\bin\Debug\Descrit.pdb
+C:\Users\admin\source\repos\Descrit\obj\Debug\Descrit.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Descrit\obj\Debug\Descrit.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\Descrit\obj\Debug\Descrit.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Descrit\obj\Debug\Descrit.exe
+C:\Users\admin\source\repos\Descrit\obj\Debug\Descrit.pdb
